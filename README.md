@@ -14,8 +14,10 @@ There is a service called "contacts" has been used to fetch the data based on th
 on-key-press and result-arr are the callback function and data respectively, which are two bindings between main controller and component.
 
 This component has been created as an element. It is as given below.
-
+```HTML
 <strong><auto-suggest-com on-key-press="mc.doSearch(keyWord)" result-arr="mc.resultArr"></auto-suggest-com></strong>
+
+```
 
 ## Style Applied
 
