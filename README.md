@@ -1,5 +1,5 @@
 # AutoSuggest Component Angular 1.6.1
-=====================================
+
 
 ##Implementation
 
@@ -17,6 +17,6 @@ This component has been created as an element. It is as given below.
 
 <strong><auto-suggest-com on-key-press="mc.doSearch(keyWord)" result-arr="mc.resultArr"></auto-suggest-com></strong>
 
-## Style applied
+##Style Applied
 
 "fontawesome" icons have been used to show different icons in the page and SCSS file has been created for writing the style.
