@@ -15,7 +15,7 @@ on-key-press and result-arr are the callback function and data respectively, whi
 
 This component has been created as an element. It is as given below.
 ```HTML
-<strong><auto-suggest-com on-key-press="mc.doSearch(keyWord)" result-arr="mc.resultArr"></auto-suggest-com></strong>
+<auto-suggest-com on-key-press="mc.doSearch(keyWord)" result-arr="mc.resultArr"></auto-suggest-com>
 
 ```
 
